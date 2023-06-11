@@ -293,7 +293,6 @@ li:nth-child(4)>.menu-table-item{
 @media(max-width: 767px){
     .center{
         max-width: 320px;
-        outline: 2px solid red;
         
     }
     .top{
